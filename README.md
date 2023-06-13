@@ -1,4 +1,4 @@
-### Hi there 👋, my name is ChanHwi
+### Hi there 👋, I'm ChanHwi
 
 
 
