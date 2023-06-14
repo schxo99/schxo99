@@ -10,7 +10,8 @@
 #### ✏️ Studing
 <img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=Git&logoColor=white"/> <img src="https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=Amazon AWS&logoColor=white"/>
 
-
+<img height = '180em' src = "https://github-readme-stats.vercel.app/api?username=schxo99&theme=buefy&show_icons=true"/>
+<img height = '180em' src = "https://github-readme-stats.vercel.app/api/top-langs/?username=schxo99"/>
 
 
 
